@@ -1,0 +1,52 @@
+{
+    "signup": {
+        "name": "Rui Andrade",
+        "cpf": "00000014141",
+        "email": "ruisabia@gmail.com",
+        "whatsapp": "32999999999",
+        "address": {
+            "postalCode": "08343320",
+            "street": "Travessa Salve a Mocidade",
+            "number": "155",
+            "details": "Casa 02",
+            "district": "Jardim da Conquista (Zona Leste)",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+       
+    },
+
+    "cpf_incorreto": {
+        "name": "Rui Andrade",
+        "cpf": "000000141AA",
+        "email": "ruisabia@gmail.com",
+        "whatsapp": "32999999999",
+        "address": {
+            "postalCode": "08343320",
+            "street": "Travessa Salve a Mocidade",
+            "number": "155",
+            "details": "Casa 02",
+            "district": "Jardim da Conquista (Zona Leste)",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_incorreto": {
+        "name": "Rui Andrade",
+        "cpf": "00000014141",
+        "email": "rui.gmail.com",
+        "whatsapp": "32999999999",
+        "address": {
+            "postalCode": "08343320",
+            "street": "Travessa Salve a Mocidade",
+            "number": "155",
+            "details": "Casa 02",
+            "district": "Jardim da Conquista (Zona Leste)",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
